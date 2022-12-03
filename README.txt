@@ -1,5 +1,5 @@
 para utilizar el programa 
-1: tiene q intalar el lenguaje de programacion python
+1: tiene que intalar el lenguaje de programacion python
 2: instalar la libreria de tweepy 
     mediante los comandos de 
     1: pip install tweepy
